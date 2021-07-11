@@ -15,4 +15,4 @@
 
 ## My Github Stats
 
-[![AccidentalRebel's GitHub stats](https://github-readme-stats.vercel.app/api?username=accidentalrebel)](https://github.com/anuraghazra/github-readme-stats)
+[![AccidentalRebel's GitHub stats](https://github-readme-stats.vercel.app/api?username=accidentalrebel&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
