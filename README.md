@@ -1,9 +1,9 @@
 # Salutations, I am a̵c̵c̸i̵d̷e̵n̷t̴a̷l̴r̵e̷b̸e̴l̸! 👋
 
-* 🔭 - I currently work as a Cyber Security Engineer
-* ⚡ - I work on Cyber Security tools and malware for research purposes
-* 🌱 - I also create games and game engines
-* 💬 - I mainly code in C, Assembly, and Python
+* 🔭 - I currently work as a L2 Soc Analyst
+* ⚡ - I work on tools and malware for research purposes
+* 🌱 - Before cyber security, I made games and game engines
+* 💬 - I mostly code in C, Assembly, and Python
 * 😄 - BTW, I use Arch and Emacs 😄
 
 ## My socials
