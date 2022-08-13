@@ -4,7 +4,6 @@
 * ⚡ - I make malware and tools for research purposes
 * 🌱 - Before cyber security, I made games and game engines
 * 💬 - I mostly code in C, Assembly, and Python
-* 😄 - BTW, I use Arch and Emacs 😄
 
 ## My socials
 
