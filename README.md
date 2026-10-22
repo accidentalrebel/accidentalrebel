@@ -11,7 +11,3 @@
 * [LinkedIn](https://www.linkedin.com/in/juan-karlo-licudine/)
 * [Twitter](https://twitter.com/accidentalrebel)
 * [Hackaday.io](https://hackaday.io/projects/hacker/390192)
-
-## My Github Stats
-
-[![AccidentalRebel's GitHub stats](https://github-readme-stats.vercel.app/api?username=accidentalrebel&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
